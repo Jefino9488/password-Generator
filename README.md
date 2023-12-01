@@ -31,9 +31,11 @@ The program will then generate a password according to the user prefrences and d
 - Check box for uppercase characters
 
 ## Example
-![image](![img.png](img.png))
+![image](![image](https://github.com/Jefino9488/password-Generator/assets/89455522/5dfa3e97-b450-45b9-9b61-54e4cf10713b)
+)
 
-![image](![img_1.png](img_1.png))
+![image](![image](https://github.com/Jefino9488/password-Generator/assets/89455522/58fe20e0-49d8-422a-871f-61022d4a6254)
+)
 
 ### Author
 [Jefino](https://github.com/Jefino9488)
