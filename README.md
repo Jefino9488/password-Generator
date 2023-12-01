@@ -31,9 +31,9 @@ The program will then generate a password according to the user prefrences and d
 - Check box for uppercase characters
 
 ## Example
-![image](![img.png](img.png))
+![img.png](img.png)
 
-![image](![img_1.png](img_1.png))
+![img_1.png](img_1.png)
 
 ### Author
 [Jefino](https://github.com/Jefino9488)
