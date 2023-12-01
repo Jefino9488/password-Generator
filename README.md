@@ -29,7 +29,7 @@ The program will then generate a password according to the user prefrences and d
 - Check box for numbers
 - Check box for lowercase characters
 - Check box for uppercase characters
-
+ 
 ## Example
 ![img.png](img.png)
 
