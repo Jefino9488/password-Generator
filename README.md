@@ -8,7 +8,6 @@ This password generator was created as a project on internship at [CodersCave](h
 - [Features](#features)
 - [Usage](#usage)
 - [Example](#example)
-- [Author](#author)
 
 ## Description
 This is a python program that generates random passwords according to user prefrences. User can choose the length of the password, type of password, whether to include special characters, numbers, lowercase and uppercase characters.
@@ -34,6 +33,3 @@ The program will then generate a password according to the user prefrences and d
 ![img.png](img.png)
 
 ![img_1.png](img_1.png)
-
-### Author
-[Jefino](https://github.com/Jefino9488)
