@@ -1,7 +1,7 @@
 # Password Generator
 
 This is a python program which generates random passwords according to user prefrences.
-This password generator was created as a project on internship at [CodersCave](https://www.coderscave.in) on Python Development Domain
+This password generator was created as a project on internship at [CodersCave](https://www.coderscave.in) on #Python Development Intern
 
 ## Table of content
 - [Description](#description)
